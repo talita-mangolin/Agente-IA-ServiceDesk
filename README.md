@@ -31,3 +31,10 @@ Desenvolvido como parte dos meus estudos em **AI Engineering (FIAP)**, este agen
    ```bash
    git clone [https://github.com/SEU_USUARIO/Agente-IA-ServiceDesk.git](https://github.com/SEU_USUARIO/Agente-IA-ServiceDesk.git)
    cd Agente-IA-ServiceDesk
+
+
+## 📺 Demonstração de Funcionamento
+
+[![Assista ao vídeo](https://img.youtube.com/vi/TAtIsbKWnSs/0.jpg)](https://www.youtube.com/watch?v=TAtIsbKWnSs)
+
+*Clique na imagem acima para ver o agente em ação no YouTube.*
